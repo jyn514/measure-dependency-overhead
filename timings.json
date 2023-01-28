@@ -13,3 +13,12 @@
 {"crates": "10000", "functions": "1", "time": "2.054745387s"}
 {"crates": "10000", "functions": "10", "time": "1.956181775s"}
 {"crates": "10000", "functions": "100", "time": "2.080210901s"}
+{"crates": "1", "functions": "1000", "time": "18.338588ms"}
+{"crates": "1", "functions": "10000", "time": "17.935136ms"}
+{"crates": "10", "functions": "1000", "time": "19.392023ms"}
+{"crates": "10", "functions": "10000", "time": "22.970366ms"}
+{"crates": "100", "functions": "1000", "time": "33.571268ms"}
+{"crates": "100", "functions": "10000", "time": "47.522261ms"}
+{"crates": "1000", "functions": "1000", "time": "174.118975ms"}
+{"crates": "1000", "functions": "10000", "time": "1.771703709s"}
+{"crates": "10", "functions": "100000", "time": "21.443999ms"}
