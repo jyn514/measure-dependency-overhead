@@ -1,0 +1,15 @@
+{"crates": "1", "functions": "1", "time": "18.221608ms"}
+{"crates": "1", "functions": "10", "time": "17.766532ms"}
+{"crates": "1", "functions": "100", "time": "17.74648ms"}
+{"crates": "10", "functions": "1", "time": "19.031016ms"}
+{"crates": "10", "functions": "10", "time": "18.681494ms"}
+{"crates": "10", "functions": "100", "time": "18.617832ms"}
+{"crates": "100", "functions": "1", "time": "26.911361ms"}
+{"crates": "100", "functions": "10", "time": "27.914005ms"}
+{"crates": "100", "functions": "100", "time": "27.873042ms"}
+{"crates": "1000", "functions": "1", "time": "104.87064ms"}
+{"crates": "1000", "functions": "10", "time": "104.14527ms"}
+{"crates": "1000", "functions": "100", "time": "115.344377ms"}
+{"crates": "10000", "functions": "1", "time": "2.054745387s"}
+{"crates": "10000", "functions": "10", "time": "1.956181775s"}
+{"crates": "10000", "functions": "100", "time": "2.080210901s"}
