@@ -21,7 +21,9 @@ echo "Adding $functions functions to each crate"
 for lib in deps/crate*/src/lib.rs; do
     # Overwrite any existing code
     echo "#![allow(dead_code)]"> $lib
-    for f in `seq 1 $functions`; do
+    ( for f in `seq 1 $functions`; do
         echo "fn foo$f() {}" >> $lib
-    done
+    done ) &
 done
+
+wait
